@@ -1,2 +1,2 @@
-# Semester-Project-1
-Semester Project 1 FED AUG2024
+# Preparation for semester assignment
+
